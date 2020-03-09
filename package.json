@@ -19,5 +19,8 @@
   "homepage": "https://github.com/brnktt/node-js-command-line-tool#readme",
   "bin": {
     "nls": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0"
   }
 }
