@@ -1,0 +1,23 @@
+{
+  "name": "node-js-command-line-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brnktt/node-js-command-line-tool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brnktt/node-js-command-line-tool/issues"
+  },
+  "homepage": "https://github.com/brnktt/node-js-command-line-tool#readme",
+  "bin": {
+    "nls": "index.js"
+  }
+}
